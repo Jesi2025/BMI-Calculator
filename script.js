@@ -33,13 +33,3 @@ else{
 
 document.getElementById("result").innerHTML = resultMessage;
 }
-
-
-let number = 5;
-let number1 = 3;
-
-console.log(number + number1);
-
-let fruits = ["apple","banana","orange"];
-
-fruits.push("banana");
