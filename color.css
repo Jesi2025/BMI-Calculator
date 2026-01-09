@@ -1,5 +1,7 @@
 body{
     background-color: purple;
-    text-align: right;
-  
+    text-align: center;
+    padding:20px;
+    margin: 20px;
+    justify-content: center;
 }
