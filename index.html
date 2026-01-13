@@ -21,5 +21,10 @@
     
 
     <script src="script.js"></script>
+    <script>
+        if(!localStorage.getItem("loggedIn")){
+            window.location.href = "login.html";
+        }
+    </script>
 </body>
 </html>
